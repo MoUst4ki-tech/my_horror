@@ -1,0 +1,6 @@
+*.o
+*.a
+vgcore.*
+unit_tests
+.vscode/
+.idea/
